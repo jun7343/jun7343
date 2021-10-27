@@ -21,6 +21,10 @@
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=)
 
+## :rocket: My Projects
+
+- [Devflix](https://github.com/jun7343/devflix)
+
 ## :muscle: Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun7343&hide_langs_below=1&theme=bear)](https://github.com/anuraghazra/github-readme-statsz)

@@ -25,6 +25,11 @@
 
 - [Devflix](https://github.com/jun7343/devflix)
 
+## :weight_lifting_man: My Practice Repoitory
+
+- [Java Drill](https://github.com/jun7343/java-drill)
+- [Spring Security Drill](https://github.com/jun7343/spring-security-drill)
+
 ## :muscle: Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun7343&hide_langs_below=1&theme=bear)](https://github.com/anuraghazra/github-readme-statsz)

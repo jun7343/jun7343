@@ -39,7 +39,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jun7343&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
-## :beginner: Baekjoon Lanks
+## :beginner: Baekjoon Ranking
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yujun93)](https://solved.ac/yujun93)
 

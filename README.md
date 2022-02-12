@@ -29,7 +29,7 @@
 ## :weight_lifting_man: My Practice Repositories
 
 - [Java Drill](https://github.com/jun7343/java-drill)
-- [Spring Security Drill](https://github.com/jun7343/spring-security-drill)
+- [Spring Boot Drill](https://github.com/jun7343/spring-boot-drill)
 
 ## :muscle: Most Used Languages
 

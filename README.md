@@ -24,7 +24,6 @@
 
 ## :rocket: My Projects
 
-- [E-commerce](https://github.com/jun7343/e-commerce) :running: In Progress...
 - [Devflix](https://github.com/jun7343/devflix)
 
 ## :weight_lifting_man: My Practice Repositories

@@ -4,7 +4,7 @@
 - **Language**: Java, Kotlin  
 - **Framework**: Spring Boot
 - **Database**: MySQL, PostgreSQL, Redis  
-- **Infra / Cloud**: AWS, GCP, Terraform, Kubernetes
+- **Infra / Cloud**: AWS, GCP, Kafka, Terraform, Kubernetes
 - **Tools**: Git, Gradle, IntelliJ IDEA
 
 ---

@@ -7,8 +7,6 @@
 - **Infra / Cloud**: AWS, GCP, Kafka, Terraform, Kubernetes
 - **Tools**: Git, Gradle, IntelliJ IDEA
 
----
-
 ## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [OpenAPI로 AWS API Gateway 리소스 일괄 생성하기 By Terraform](https://jun7343.github.io/aws/terraform/devops/openapi/2025/07/05/terraform-aws-api-gateway/)
@@ -20,8 +18,6 @@
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jun7343&show_icons=true)
-
----
 
 ## 📫 Contact
 [![Gmail Badge](https://img.shields.io/badge/-zlsl7343@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:zlsl7343@gmail.com)

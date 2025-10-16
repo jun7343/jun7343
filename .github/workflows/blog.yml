@@ -1,0 +1,14 @@
+name: Update blog posts
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jun7343.github.io/feed.xml"
+          max_post_count: "5"

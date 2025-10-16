@@ -1,7 +1,7 @@
 name: Update blog posts
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -11,7 +11,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Update README with latest posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jun7343.github.io/feed.xml"
           max_post_count: "5"
+          commit_message: "chore(readme): update blog posts"
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
